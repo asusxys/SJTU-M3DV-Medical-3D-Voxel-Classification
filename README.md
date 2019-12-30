@@ -22,4 +22,7 @@ b. 测试集-117个样本(标签未知)<br>
 已经将训练好的权重放在了./tmp/test的路径下，直接使用即可。<br>
 预测测试集的样本标签：运行`test.py`文件即可得到Submission.csv<br>
 
+```
+python test.py
+```
 注：本课程项目代码使用的参考代码是[densesharpe](https://github.com/duducheng/DenseSharp)(作者：[@duducheng](https://github.com/duducheng))
